@@ -9,4 +9,4 @@ pip3 install requests
 
 La aplicación requiere 2 parámetros, el primero es la "url" a auditar y el segundo es la cantidad de peticiones.
 
-### No me hago responsable por cualquier uso indebido de esta "aplicación", su uso debe ser unicamente para entornos de prueba preautorizados.
+### No me hago responsable por cualquier uso indebido de esta "aplicación", su uso debe ser unicamente para entornos de prueba autorizados.
